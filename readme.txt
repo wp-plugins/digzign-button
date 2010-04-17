@@ -9,7 +9,7 @@ Adds the Digzign's button to your WordPress posts and/or pages.
 
 == Description ==
 
-This plugin installs the Digzign Button on your Posts (blog and/or individual posts) and/or pages. It supports all the <a href='http://digzign.com/tools/button'>settings available</a>.
+This plugin installs the Digzign Button on your Posts (blog and/or individual posts) and/or pages. It supports all the available <a href='http://digzign.com/tools/button'>settings</a>.
 
 == Known Bugs ==
 Unknown, at the moment.
