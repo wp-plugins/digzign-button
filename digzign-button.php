@@ -2,7 +2,7 @@
 /*
 Plugin Name: Digzign Button
 Version: 1.0
-Plugin URI: http://digzign.com/tools/buttons
+Plugin URI: http://digzign.com/tools/button
 Description: This plugin adds the Digzign's button to your WordPress posts and/or pages.
 Author: Sergio Dinis Lopes
 Author URI: http://sergiolopes.name/
